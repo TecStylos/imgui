@@ -16,7 +16,7 @@ set(
 
 set(
 	IMGUI_LINK_LIBRARIES
-	glfw
+	GLFW
 )
 
 add_library(
